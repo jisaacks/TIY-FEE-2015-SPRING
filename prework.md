@@ -19,18 +19,6 @@ Review and complete the tasks below by **January 20th**. Any deliverables should
 
 WARNING: The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
-### Install Homebrew
-
-  * This can be installed following the instructions [here](http://brew.sh/#install). When the instructions say _"Paste that at a Terminal prompt."_ They are referring to the terminal.app that is pre installed in OSX.
-
-  * Once you have installed homebrew, use the `brew` command to install the following packages:
-    - zsh
-    - git
-
-### Installed Node
-
-  * Download the package from [nodejs.org](http://nodejs.org/)
-
 ### Install Google Chrome
 
   * [google.com/chrome](http://google.com/chrome)
