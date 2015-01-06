@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Invoice</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <div class="content">
+      <div class="heading">
+        <img alt="ACME" src="acme.jpg" width="100">
+        <h1>Invoice For Products</h1>
+      </div>
+      <div class="header-details">
+        <span>Invoice No.</span> <strong>1234567</strong>
+      </div>
+      <div class="header-details">
+        <span>Date</span> <strong>Jan 26, 2015</strong>
+      </div>
+      <div class="header-details">
+        <span>Billed To</span> <strong>John Doe</strong>
+      </div>
+      <hr>
+      <div class="billing-reason">
+        <p>You are being invoiced because products were delivered to you. An itemized list can be seen below.</p>
+      </div>
+      <div>
+      <table>
+        <thead>
+          <tr>
+            <th>Description</th>
+            <th>Units</th>
+            <th>Unit Price</th>
+            <th>Total Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Laptop Computer</td>
+            <td class="number">3</td>
+            <td class="number">$1000</td>
+            <td class="number">$3000</td>
+          </tr>
+          <tr>
+            <td>Wireless Router</td>
+            <td class="number">1</td>
+            <td class="number">$100</td>
+            <td class="number">$100</td>
+          </tr>
+          <tr>
+            <td>Modem</td>
+            <td class="number">1</td>
+            <td class="number">$50</td>
+            <td class="number">$50</td>
+          </tr>
+          <tr>
+            <td colspan="2" rowspan="3" class="empty"></td>
+            <th>Subtotal</th>
+            <td class="number">$3150</td>
+          </tr>
+          <tr>
+            <th>10% Sales Tax</th>
+            <td class="number">$315</td>
+          </tr>
+          <tr>
+            <th>Grand Total</th>
+            <td class="number">$3465</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+      <br>
+      <hr>
+      <div>
+      <h2>What to do next</h2>
+      <ul>
+        <li><a href="http://www.example.com" target="blank">Log in</a> to our customer portal</li>
+        <li><em>Click</em> make a payment</li>
+        <li>Fill out the payment form</li>
+        <li><em>Click</em> the <strong>Authorize Payment</strong> button</li>
+      </ul>
+      </div>
+    </div>
+  </body>
+</html>
