@@ -2,7 +2,7 @@
 
 This is a loose outline of what we are likely to cover each week. It may change as needed for reasons such as class progress.
 
-## Week 1 -- Web Dev Basics
+## [Week 1 -- Web Dev Basics](Week-01.md)
 
 * Comfortable with the command line
 * Ability to create a simple webpage using HTML & CSS
@@ -10,7 +10,7 @@ This is a loose outline of what we are likely to cover each week. It may change 
 * Familiar with less.js
 
 ## Week 2 -- JavaScript Basics
-  
+
 * Understands and is able to use:
   - variables
   - expressions
@@ -24,7 +24,7 @@ This is a loose outline of what we are likely to cover each week. It may change 
 * Able to use developer console and debugger
 
 ## Week 3 -- jQuery (And other libraries)
-  
+
 * Events
   - bubble phase vs capture phase
   - target vs currentTarget
