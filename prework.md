@@ -31,14 +31,14 @@ WARNING: The OS X upgrade can take a bit of time to complete and will require a 
 
 As a developer, you spend most of your time reading, writing, and editing code, so it's no surprise that a text editor is one the most important tools to familiarize yourself with.
 
-I recommend [Sublime Text 3](http://www.sublimetext.com/3) but you may use any text editor you like.
+I recommend and will be using [Sublime Text 3](http://www.sublimetext.com/3) but you may use any text editor you like.
 
 
 ## The Command Line
 
 The command line will be our primary interface to the computer, and aside from your editor, the place you will spend the most time. If you've never opened up a terminal before, now is the time to start getting comfortable.
 
-* (Optional, but recommended) Install and use [iTerm2](http://iterm2.com/) as your terminal
+* Install [iTerm2](http://iterm2.com/)
 * Read http://skillcrush.com/2012/12/03/command-line-2/
 * Read and practice with [A Command Line Primer for Beginners](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 
