@@ -1,4 +1,4 @@
-## Week 1 day 1
+## Week 1
 
 ### Introductions
 
